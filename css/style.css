@@ -73,8 +73,8 @@ header p {
 }
 
 .card a:hover {
-  background: linear-gradient(to right, #f43f5e, #db2777);
-  box-shadow: 0 4px 12px rgba(244, 63, 94, 0.3);
+  background: linear-gradient(to right, #4b3ff4, #27cfdb);
+  box-shadow: 0 4px 12px rgba(63, 181, 244, 0.3);
 }
 
 .card:hover {
